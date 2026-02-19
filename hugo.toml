@@ -2,3 +2,6 @@ baseURL = 'https://z99205388.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
+
+[params]
+  author = "z99205388"
